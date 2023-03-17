@@ -1,0 +1,31 @@
+{
+  "name": "Mozart Finance Default List",
+  "timestamp": "2021-04-01T09:56:23Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/coins/BNB.png",
+
+  "tokens": [
+    {
+      "name": "Quintex Token",
+      "symbol": "Quintex",
+      "address": "0xa0Bb02495db2d3bd3a3bFc5Df386ccdC8ee3Ad25",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://quintexai.io/assets/img/mylogoii.png"
+    },
+  
+    {
+      "name": "WCore Token",
+      "symbol": "WCORE",
+      "address": "0x75aa22812B9bc7B7657aCCD2E59e79ebfECC6207",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
